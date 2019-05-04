@@ -1,0 +1,1 @@
+vex_tournament_manager
